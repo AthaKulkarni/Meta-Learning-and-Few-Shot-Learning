@@ -1,16 +1,3 @@
-# Meta Learning and Few Shot Learning
-
-## Individual Project 4
-
-**Atharva Pradip Kulkarni**  
-**Masters in Data Science**  
-**Worcester Polytechnic Institute**  
-**DS 504 / CS 586: Big Data Analytics**  
-**Professor Dr. Yanhua Li**  
-**April 23, 2024**
-
----
-
 ## 1. Introduction and Proposal
 
 Siamese neural networks are a specialized neural network architecture designed for comparing two inputs to measure their similarity. They are commonly used in tasks such as image or speech recognition, where determining whether two inputs are the same or similar is crucial. These networks consist of two identical sub-networks that share weights, allowing simultaneous processing of both inputs and producing similar feature representations. A significant advantage of Siamese networks is their ability to perform few-shot learning, enabling the network to learn new tasks with minimal examples, making them particularly useful in scenarios with limited labeled data.
